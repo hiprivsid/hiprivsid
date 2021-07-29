@@ -5,7 +5,7 @@
 
 Hi there 👋
 
-I am Ivan Vorvanin. I'm ultra gay developer.
+I am Ivan Vorvanin.
 
 ## 📝 Links
 
@@ -20,5 +20,5 @@ I am Ivan Vorvanin. I'm ultra gay developer.
 ## 📌 Note
 
 <br>
-I'm not gay, original gay: Artur Bykov
+I'm original developer of AeroOS
 <br>
