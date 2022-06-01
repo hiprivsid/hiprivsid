@@ -1,7 +1,7 @@
-[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/broul_sas)
+[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
 
-[![Visits in repository](https://badges.pufler.dev/visits/HiPriv228/HiPriv228)](https://vk.com/broul_sas)
-[![VKontakte](https://img.shields.io/badge/broul__sas-VKontakte-blue)](https://vk.com/broul_sas)
+[![Visits in repository](https://badges.pufler.dev/visits/HiPriv228/HiPriv228)](https://vk.com/hiprivsid)
+[![VKontakte](https://img.shields.io/badge/hiprivsid-VKontakte-blue)](https://vk.com/hiprivsid)
 
 Hi there 👋
 
@@ -12,7 +12,7 @@ I am Ivan Vorvanin.
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [VK](https://vk.com/broul_sas)
+- [VK](https://vk.com/hiprivsid)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
