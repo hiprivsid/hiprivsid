@@ -20,5 +20,5 @@ I am Ivan Vorvanin.
 ## 📌 Note
 
 <br>
-I'm original developer of AeroOS
+чел который был в тт хаусе ximi haus
 <br>
