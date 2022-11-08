@@ -19,6 +19,4 @@ I am Ivan Vorvanin.
 
 ## 📌 Note
 
-<br>
-чел который был в тт хаусе ximi haus
-<br>
+
