@@ -10,7 +10,8 @@ Hi there 👋
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [My telegram channel](https://t.me/ivanvorvaninchannel)
+
+I don't have any links right now.
 
 <!-- BLOG-POST-LIST:END -->
 
