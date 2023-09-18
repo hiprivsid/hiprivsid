@@ -1,4 +1,4 @@
-[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
+![image](https://github.com/hiprivsid/hiprivsid/assets/75212472/b004f2b6-cd5d-4a24-8806-c2f3b1f9da3c)[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
 
 [![Visits in repository](https://img.shields.io/badge/ivan_vorvanin-Telegram-blue)](https://t.me/ivan_vorvanin)
 [![VKontakte](https://img.shields.io/badge/hiprivsid-VKontakte-blue)](https://vk.com/hiprivsid)
@@ -20,3 +20,12 @@ I don't have any links right now.
 ## 📌 Note
 
 
+## 📱My devices
+Xiaomi Redmi 5 2/16
+Xiaomi Redmi 7 2/16
+Xiaomi Redmi 7A 2/16
+Xiaomi Redmi Note 7 3/32
+HTC HD2 Global
+Nokia Lumia 930
+Microsoft(Nokia) Lumia 950XL
+Nokia N900 
