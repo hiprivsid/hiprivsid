@@ -1,4 +1,4 @@
-![image](https://github.com/hiprivsid/hiprivsid/assets/75212472/b004f2b6-cd5d-4a24-8806-c2f3b1f9da3c)[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
+[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
 
 [![Visits in repository](https://img.shields.io/badge/ivan_vorvanin-Telegram-blue)](https://t.me/ivan_vorvanin)
 [![VKontakte](https://img.shields.io/badge/hiprivsid-VKontakte-blue)](https://vk.com/hiprivsid)
