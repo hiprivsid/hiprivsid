@@ -21,18 +21,15 @@ I don't have any links right now.
 
 
 ## 📱My devices
-Xiaomi Redmi 5 2/16
 
-Xiaomi Redmi 7 2/16
+Samsung Galaxy Note 8 6/64 (Great)
 
-Xiaomi Redmi 7A 2/16
+Xiaomi Redmi 7 2/16 (Onclite)
 
-Xiaomi Redmi Note 7 3/32
+HTC HD2 Global (Leo)
 
-HTC HD2 Global
+Nokia Lumia 930 (Martini)
 
-Nokia Lumia 930
+Microsoft(Nokia) Lumia 950XL (Cityman)
 
-Microsoft(Nokia) Lumia 950XL
-
-Nokia N900 
+Nokia N900 (?)
