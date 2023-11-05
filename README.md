@@ -28,8 +28,6 @@ Xiaomi Redmi 7 2/16 (Onclite)
 
 HTC HD2 Global (Leo)
 
-Nokia Lumia 930 (Martini)
-
 Microsoft(Nokia) Lumia 950XL (Cityman)
 
 Nokia N900 (?)
