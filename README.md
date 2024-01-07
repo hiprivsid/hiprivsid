@@ -22,9 +22,9 @@ I don't have any links right now.
 
 ## 📱My devices
 
-Samsung Galaxy Note 8 6/64 (Great)
+Motorola G9 Power 4/128 (Cebu)
 
-Xiaomi 9 6/128 (Cepheus) - Cracked screen, waiting for a new screen
+Xiaomi 9 6/128 (Cepheus) - Main
 
 Xiaomi Redmi 7 2/16 (Onclite)
 
