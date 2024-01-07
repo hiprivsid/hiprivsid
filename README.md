@@ -24,7 +24,7 @@ I don't have any links right now.
 
 Samsung Galaxy Note 8 6/64 (Great)
 
-Xiaomi 9 6/128 (Cepherus) - Cracked screen, waiting for a new screen
+Xiaomi 9 6/128 (Cepheus) - Cracked screen, waiting for a new screen
 
 Xiaomi Redmi 7 2/16 (Onclite)
 
