@@ -33,3 +33,5 @@ HTC HD2 Global (Leo)
 Microsoft(Nokia) Lumia 950XL (Cityman)
 
 Nokia N900 (?)
+
+Google Nexus 5 2/32 D821 (Hammerhead)
