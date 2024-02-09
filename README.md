@@ -5,21 +5,6 @@
 
 Hi there 👋
 
-## 📝 Links
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-I don't have any links right now.
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-## 📌 Note
-
-
 ## 📱My devices
 
 Motorola G9 Power 4/128 (Cebu)
