@@ -1,7 +1,8 @@
 [![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
 
-[![Visits in repository](https://img.shields.io/badge/satorisama-Telegram-blue)](https://t.me/satorisama)
+[![Telegram](https://img.shields.io/badge/satorisama-Telegram-blue)](https://t.me/satorisama)
 [![VKontakte](https://img.shields.io/badge/hiprivsid-VKontakte-blue)](https://vk.com/hiprivsid)
+[![tgchanne;](https://img.shields.io/badge/my_litte_blog-Telegram-blue)](https://t.me/hardwarebloghiprivsid)
 
 Hi there 👋
 
