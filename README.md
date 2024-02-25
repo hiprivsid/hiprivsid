@@ -8,7 +8,7 @@ Hi there 👋
 
 ## 📱My devices
 
-Motorola G9 Power 4/128 (Cebu)
+Motorola G9 Power 4/128 (Cebu) - Backup device
 
 Xiaomi 9 6/128 (Cepheus) - Main
 
