@@ -1,5 +1,3 @@
-[![VBerezin Main Banner](./assets/HiPrivBanner.png)](https://vk.com/hiprivsid)
-
 Hi there 👋
 
 ## 📱My devices
