@@ -8,7 +8,7 @@ Lenovo A390 512MB/4GB (Unknown) - Cracked screen.
 
 Motorola G9 Power 4/128 (Cebu) - Backup device
 
-Xiaomi 9 6/128 (Cepheus) - Trying to sell it 
+~~Xiaomi 9 6/128 (Cepheus)~~ Sold out
 
 Xiaomi Redmi 5 2/16 (Rosy) - Cracked screen, fingerprint scanner works particly
 
