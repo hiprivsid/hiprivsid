@@ -22,7 +22,7 @@ Xiaomi Redmi Note 7 3/32 (Lavender) - No fingerprint scanner and back glass
 
 Samsung Galaxy Note 8 Exynos 6/64 (Greatlte) - Main
 
-Samsung Galaxy A70 6/128 (A70q) - Dead motherboard (or pmic only), no fod scanner
+Samsung Galaxy A70 6/128 (A70q) - Dead motherboard (or pmic only), no fod scanner and no battery
 
 HTC HD2 Global 512MB/512MB (Leo) - Dead screen and buttons works particly
 
