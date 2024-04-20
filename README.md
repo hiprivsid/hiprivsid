@@ -4,6 +4,10 @@ Hi there 👋
 
 ~~Apple iPhone 6 1/16 (Unknown)~~ Fully dead, no components
 
+~~Apple iPhone SE 2/32~~ Exchanged to kinect for xbox 360
+
+~~Apple iPhone 7~~ Sold out
+
 Lenovo A390 512MB/4GB (Unknown) - Cracked screen.
 
 Motorola G9 Power 4/128 (Cebu) - Backup device
