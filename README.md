@@ -26,13 +26,19 @@ Xiaomi Redmi Note 7 3/32 (Lavender) - No fingerprint scanner and back glass
 
 Samsung Galaxy Note 8 Exynos 6/64 (Greatlte) - Main
 
+~~Samsung Galaxy S8 Snapdragon (Dreamqlte) 4/64~~ half bricked, looks like panel is powered, but no splash or download
+
+Samsung Galaxy S8 Exynos (Dreamlte) 4/64 - same phone as snapdragon ver, but i killed panel already, and board is LDU, so i don't have modem in it
+
 Samsung Galaxy A70 6/128 (A70q) - Dead motherboard (or pmic only), no fod scanner and no battery
 
 HTC HD2 Global 512MB/512MB (Leo) - Dead screen and buttons works particly
 
 ~~Microsoft(Nokia) Lumia 950XL 3/32 (Cityman)~~ Exchanged to mi 9 
 
-Nokia N900 256MB/32GB (Unknown) - Dead camera and modem
+~~Nokia N900 256MB/32GB (Unknown)~~ Exchaged to Nokia N8
+
+Nokia N8 16GB (Unknown) - Dead sim slot
 
 Nokia Lumia 630 1/8 (Moneypenny) - RM-976, works well
 
