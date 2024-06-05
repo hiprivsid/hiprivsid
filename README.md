@@ -22,13 +22,15 @@ Xiaomi Redmi 7A 2/16 (Pine)
 
 Xiaomi Redmi 8A 2/32 (Olivelite) - I have only a motherboard from it
 
-Xiaomi Redmi Note 7 3/32 (Lavender) - No fingerprint scanner and back glass
+~~Xiaomi Redmi Note 7 3/32 (Lavender)~~ Exchanged with s8 exynos to Redmi note 4X
+
+Xiaomi Redmi note 4X 4/64 
 
 Samsung Galaxy Note 8 Exynos 6/64 (Greatlte) - Main
 
-~~Samsung Galaxy S8 Snapdragon (Dreamqlte) 4/64~~ half bricked, looks like panel is powered, but no splash or download
+~~Samsung Galaxy S8 Snapdragon (Dreamqlte) 4/64~~ 
 
-Samsung Galaxy S8 Exynos (Dreamlte) 4/64 - same phone as snapdragon ver, but i killed panel already, and board is LDU, so i don't have modem in it
+~~Samsung Galaxy S8 Exynos (Dreamlte) 4/64~~ - Exchanged to Redmi note 4X
 
 Samsung Galaxy A70 6/128 (A70q) - Dead motherboard (or pmic only), no fod scanner and no battery
 
