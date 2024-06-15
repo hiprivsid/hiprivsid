@@ -26,9 +26,9 @@ Xiaomi Redmi 8A 2/32 (Olivelite) - I have only a motherboard from it
 
 ~~Xiaomi Redmi Note 7 3/32 (Lavender)~~ Exchanged with s8 exynos to Redmi note 4X
 
-Xiaomi Redmi note 4X 4/64 
+Xiaomi Redmi note 4X 4/64 - main
 
-Samsung Galaxy Note 8 Exynos 6/64 (Greatlte) - Main
+~~Samsung Galaxy Note 8 Exynos 6/64 (Greatlte)~~ Sold out
 
 ~~Samsung Galaxy S8 Snapdragon (Dreamqlte) 4/64~~ 
 
