@@ -26,7 +26,9 @@ Xiaomi Redmi 8A 2/32 (Olivelite) - I have only a motherboard from it
 
 ~~Xiaomi Redmi Note 7 3/32 (Lavender)~~ Exchanged with s8 exynos to Redmi note 4X
 
-Xiaomi Redmi note 4X 4/64 - main
+Xiaomi Redmi note 4X 4/64 (Mido)
+
+Xiaomi Redmi POCO X3 Pro 8/256 (Vayu) - Main
 
 ~~Samsung Galaxy Note 8 Exynos 6/64 (Greatlte)~~ Sold out
 
@@ -42,7 +44,7 @@ HTC HD2 Global 512MB/512MB (Leo) - Dead screen and buttons works particly
 
 ~~Nokia N900 256MB/32GB (Unknown)~~ Exchaged to Nokia N8
 
-Nokia N8 16GB (Unknown) - Dead sim slot
+Nokia N8 16GB (Vasco) - Dead sim slot
 
 Nokia Lumia 630 1/8 (Moneypenny) - RM-976, works well
 
